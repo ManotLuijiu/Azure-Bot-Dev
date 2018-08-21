@@ -1,0 +1,26 @@
+{
+  "name": "azurebot",
+  "version": "1.0.0",
+  "description": "Azure Bot Development",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ManotLuijiu/Azure-Bot-Dev.git"
+  },
+  "keywords": [
+    "Azure",
+    "Bot"
+  ],
+  "author": "Manot Luijiu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ManotLuijiu/Azure-Bot-Dev/issues"
+  },
+  "homepage": "https://github.com/ManotLuijiu/Azure-Bot-Dev#readme",
+  "dependencies": {
+    "botbuilder": "^3.15.0"
+  }
+}
